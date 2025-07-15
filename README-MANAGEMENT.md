@@ -2,7 +2,7 @@
 
 Kumpulan script untuk mengelola OpenVPN server setelah instalasi. Script ini menyediakan interface yang mudah untuk mengkustomisasi pengaturan OpenVPN secara otomatis.
 
-## 📁 File yang Tersedia
+## � File yang Tersedia
 
 ### 1. `openvpn-manager.sh` - Script Management Interaktif
 Script dengan menu interaktif untuk mengelola OpenVPN server.

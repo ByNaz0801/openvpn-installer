@@ -21,7 +21,19 @@ Selamat datang di **OpenVPN ByZ Management Suite** - solusi lengkap untuk mengel
     └── openvpn-byz.log
 ```
 
-## 🚀 Cara Penggunaan
+## � Instalasi
+
+### Online Install (1 Command):
+```bash
+curl -O https://raw.githubusercontent.com/ByNaz0801/openvpn-installer/main/install-openvpn-byz.sh && chmod +x install-openvpn-byz.sh && sudo ./install-openvpn-byz.sh
+```
+
+**Atau dengan wget:**
+```bash
+wget https://raw.githubusercontent.com/ByNaz0801/openvpn-installer/main/install-openvpn-byz.sh && chmod +x install-openvpn-byz.sh && sudo ./install-openvpn-byz.sh
+```
+
+## �🚀 Cara Penggunaan
 
 ### Menjalankan Suite Utama:
 ```bash
