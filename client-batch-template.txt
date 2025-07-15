@@ -1,0 +1,9 @@
+# Template Buat Bikin Client OpenVPN Masal
+# Format: nama_client|email|info
+# Dibuat oleh: ByNaz @ByNaz0801
+# Contoh:
+user1|user1@example.com|Marketing Department
+user2|user2@example.com|IT Support
+admin|admin@company.com|System Administrator
+mobile_user|mobile@example.com|Mobile Access
+guest|guest@company.com|Guest Access - Valid until 2025-12-31
